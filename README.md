@@ -1,5 +1,5 @@
 
-![Banner Image](images\banner.png)
+![Banner Image](banner.png)
 
 # Welcome to my GitHub! ☄️
 
