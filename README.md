@@ -1,5 +1,5 @@
 
-![Banner Image](banner.png)
+![Banner Image](https://github.com/elifyagmurduran/elifyagmurduran/blob/main/banner.png?raw=true)
 
 # Welcome to my GitHub! ☄️
 
