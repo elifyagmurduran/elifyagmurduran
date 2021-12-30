@@ -1,5 +1,5 @@
 
-![Banner Image](banner.png)
+![banner](https://user-images.githubusercontent.com/76050599/147729607-c6e046b1-b3bb-4309-8cc6-a53ec2fddfce.png)
 
 # Welcome to my GitHub! ☄️
 
