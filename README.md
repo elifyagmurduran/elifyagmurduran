@@ -3,7 +3,7 @@
 
 # Welcome to my GitHub! ☄️
 
-My name is Yağmur and I am a computer engineering student at Yıldız Technical University. I am currently in my final year of college.   
+My name is Yağmur and I am a computer engineering student at Yıldız Technical University. I am currently in my senior year of college.   
 
 
 ### Contact 📫
@@ -31,6 +31,7 @@ I did my first and only internship with the wonderful data analysis team of Expe
 - Adding new Python libraries to my repertoire
 - Getting better at JavaScript
 - Graphic design skills, for developing better looking UIs 
+- Exploring the possibilities of OpenGL and learn more about computer graphics
 
 
 
