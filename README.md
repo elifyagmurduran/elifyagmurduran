@@ -8,7 +8,6 @@ My name is Yağmur and I am a computer engineering student at Yıldız Technical
 
 ### Contact 📫
 
-[![Gmail][gmail-shield]][gmail-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -35,9 +34,6 @@ I did my first and only internship with the wonderful data analysis team of Expe
 
 
 
-
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: https://mail.google.com/mail/u/0/#inbox
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/ya%C4%9Fmur-duran-645510182/
