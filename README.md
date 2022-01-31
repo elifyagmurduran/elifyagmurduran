@@ -21,7 +21,7 @@ Thank you for visiting!
 ## My Experience 🎃
 
 
-I did my first and only internship with the wonderful data analysis team of Experian.
+I did my first and only internship with the wonderful data analysis team of Experian and now I have a job there.
 
 
 
