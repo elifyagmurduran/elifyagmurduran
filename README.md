@@ -13,24 +13,26 @@ My name is Yağmur and I am a computer engineering student at Yıldız Technical
 
 ## About Me ✨
 
-My main focus is getting my degree at the moment,  but I am trying my best to learn more about areas such as, computer graphics, game design and development and front and development, I've always been interested in areas like this where it takes more than just the software skills school gives us. This is something I've always loved about my major while studying, we have an extremely wide range of options when it comes to what we want to do, our skill is so versatile that we could work with / at any industry, we can help all kinds of people. Personally, since I've always loved art since I was a kid, I've decided to use my skill to create art with software.
-I also enjoy the more technical part of our field. Data science is the skill of the future and I am trying not to fall behind on that. I also find great joy in solving algorithmic problems with code, in the most efficient and straightforward way I possibly can, which you'll see plenty of in this profile.
+My main focus is getting my degree while working part time with the data analysis team of Experian at the moment.  
+Personally, I want to become a better software developer in time. I have a few ideas in mind that I want to implement, and I am looking forward to advancing myself sklls to be able to do so. In the near future I can see myself getting into game development, or an area related to computer graphics. The possibilities are endless and this is something I've always loved about my major while studying, we have an extremely wide range of options when it comes to what we want to do, our skill is so versatile that we could work with / at any industry, we can help all kinds of people. For me thankfully, I have a certain idea of what I want to do, since I've always loved art since I was a kid, I've decided to use my skills to create art with software.
+I enjoy the more technical part of our field too. Data science is the skill of the future and I am trying not to fall behind on that. 
+I also find great joy in solving algorithmic problems with code, in the most efficient and straightforward way I possibly can, which you'll see plenty of in this profile.
 Thank you for visiting!
 
 
 ## My Experience 🎃
 
 
-I did my first and only internship with the wonderful data analysis team of Experian and now I have a job there.
+I did my first and only internship with the wonderful data analysis team of Experian and now I have a job as a solution analyst associate there.
 
 
 
 ## Skills I Am Currently Working On ⚡
 
-- Adding new Python libraries to my repertoire
-- Getting better at JavaScript
-- Graphic design skills, for developing better looking UIs 
-- Exploring the possibilities of OpenGL and learn more about computer graphics
+- Getting better at JavaScript, and React framework
+- Learning more about front end development and responsive design
+- Exploring the possibilities of AI algorithms
+
 
 
 
