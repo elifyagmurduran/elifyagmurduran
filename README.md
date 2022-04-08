@@ -26,14 +26,12 @@ Thank you for visiting!
 I did my first and only internship with the wonderful data analysis team of Experian and now I have a job as a solution analyst associate there.
 
 
-
-## Skills I Am Currently Working On ⚡
-
-- Getting better at JavaScript, and React framework
-- Learning more about front end development and responsive design
-- Exploring the possibilities of AI algorithms
+## Currently Working On ⚡
 
 
+- Artificial Intelligence algorithms and their impelementations in Python
+- Mobile programming techniques with Java
+- My thesis project, which is a full stack calendar integration application
 
 
 
