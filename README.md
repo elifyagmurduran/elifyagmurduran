@@ -14,7 +14,7 @@ My name is Yağmur and I am a computer engineering student at Yıldız Technical
 ## About Me ✨
 
 My main focus is getting my degree while working part time with the data analysis team of Experian at the moment.  
-Personally, I want to become a better software developer in time. I have a few ideas in mind that I want to implement, and I am looking forward to advancing myself sklls to be able to do so. In the near future I can see myself getting into game development, or an area related to computer graphics. Currently I am mostly focused on getting my degree. I look forward to opportunities abroad also. 
+Personally, I want to become a better software developer in time. I have a few ideas in mind that I want to implement, and I am looking forward to advancing my skills to be able to do so. In the near future I can see myself getting into game development, or an area related to computer graphics. Currently I am mostly focused on getting my degree. I look forward to opportunities abroad also. 
 Thank you for visiting!
 
 
