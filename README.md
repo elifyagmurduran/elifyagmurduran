@@ -26,9 +26,7 @@
 
 ### ✨ _projects I am working on at the moment_
 
-- My thesis project, which is a full stack calendar and task management web application
-- A jupyter notebook repo consisting of my advanced Python exercises
-- Music player made with android studio
+- My thesis project, which is a full stack calendar and task management web appli
 
 -----
 
