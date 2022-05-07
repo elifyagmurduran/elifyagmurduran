@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+*.md linguist-detectable=true
+*.txt linguist-detectable=false
+*.xml linguist-detectable=false
