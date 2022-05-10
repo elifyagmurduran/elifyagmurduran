@@ -24,7 +24,7 @@
 
 ### ✨ _projects I am working on at the moment_
 
-- My thesis project, which is a full stack calendar and task management web appli
+- My thesis project, which is a full stack calendar and task management web application
 
 -----
 
