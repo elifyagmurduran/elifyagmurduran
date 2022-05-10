@@ -8,8 +8,6 @@
 [![Gmail][gmail-shield]][gmail-url]
 
 
-<img align="right" height='180px'  src="pixel-jeff-digital-art-illustration-animation-pixel-art-hd-wallpaper-preview - Copy.jpg"/>
-
 
 🐬 I'm currently a senior of Bachelors in Computer Sciences and Engineering in Yıldız Technical University.
 
