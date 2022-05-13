@@ -7,8 +7,6 @@
 [![YouTube][youtube-shield]][youtube-url]
 [![Gmail][gmail-shield]][gmail-url]
 
-<img align="right" height='180px'  src="pixel-jeff-digital-art-illustration-animation-pixel-art-hd-wallpaper-preview - Copy.jpg"/>
-
 🐬 I'm currently a senior of Bachelors in Computer Sciences and Engineering in Yıldız Technical University.
 
 🐬 I am a part time solution analyst associate at Experian.
@@ -21,10 +19,12 @@
 
 - Artificial Intelligence algorithms and their impelementations in Python
 - Mobile programming techniques with Java
+- Getting more experience with Python libraries and IDEs.
 
 ### ✨ _projects I am working on at the moment_
 
-- My thesis project, which is a full stack calendar and task management web appli
+- My thesis project, which is a full stack calendar and task management web application, will be deployed by June 2022.
+- Uploading projects I did while working on learning algorithms and data structures / python / javascript. All projects need certin debugging and organizing of code stuff so it takes a while and these repos are incomplete at the moment.
 
 ---
 
