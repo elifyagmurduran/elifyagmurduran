@@ -21,3 +21,6 @@ Outside of my full time work at Experian, I busy myself with working on sharpeni
 [youtube-url]: https://www.youtube.com/channel/UCSknj28cl-5IPLXNUMJmxdg
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:elifyagmurduran@gmail.com?
+
+
+Some of my projects are incomplete at the moment because I had done them for school assignments and they are in need of debugs. I hope to complete soon!
