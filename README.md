@@ -1,8 +1,6 @@
 <h1 align="center" height='500px'> welcome☄️ </h1>
 
-[![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![YouTube][youtube-shield]][youtube-url]
 [![Gmail][gmail-shield]][gmail-url]
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
