@@ -18,7 +18,9 @@ bachelor's in computer engineering | [yıldız technical university](http://www.
 
     🐈 my master's degree and software engineering skills
 
-    🐈 an android notepad app with java
+    🐈 an android calculator app with java, to demonstrate how tdd techniques work
+    
+    🐈 an opendatahub api project - coming soon
 
     🐈 video essays for my youtube channel
 
