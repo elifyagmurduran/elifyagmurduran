@@ -2,7 +2,9 @@
 
 ### hi! welcome to my github page. 🧙‍♀️
 
-<img src="banner.png">
+<div align="center">
+  <img src="banner.png" alt="Banner Image" width="75%">
+</div>
 
 ### about me 🌙
 
