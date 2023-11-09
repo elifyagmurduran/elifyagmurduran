@@ -8,17 +8,15 @@
 
 ### about me 🌙
 
-my name is yağmur. i am a master student in software engineering looking for opportunities to advance in my career. i am also a video essay youtuber.
+hi! my name is yağmur. i am a master in software engineering student and a video essay youtuber / dance enthusiast in my free time.
 
 ## my education 🔮
 
-master's in software engineering | [free university of bozen bolzano](https://www.unibz.it/en/faculties/engineering/master-software-engineering/)
+currently - master's in software engineering | [free university of bozen bolzano](https://www.unibz.it/en/faculties/engineering/master-software-engineering/)
 
 bachelor's in computer engineering | [yıldız technical university](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=196&aid=3)
 
-## currently working on... 🔭
-
-    🐈 my master's degree and software engineering skills
+## working on... 🔭
 
     🐈 an android calculator app with java, to demonstrate how tdd techniques work
     
