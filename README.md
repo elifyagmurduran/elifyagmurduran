@@ -1,6 +1,6 @@
 <h1 align="center" height='500px'> welcome ☄️ </h1>
 
-### hi! welcome to my github page. 🧙‍♀️
+### welcome to my github page. 🧙‍♀️
 
 <div align="center">
   <img src="banner.png" alt="Banner Image" width="75%">
