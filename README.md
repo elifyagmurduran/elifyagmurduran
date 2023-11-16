@@ -18,9 +18,11 @@ bachelor's in computer engineering | [yıldız technical university](http://www.
 
 ## working on... 🔭
 
-    🐈 an android calculator app with java, to demonstrate how tdd techniques work
+    🐈 an android note taking app with java
+
+    🐈 a tdd experiments in python repository.
     
-    🐈 an opendatahub api project - coming soon
+    🐈 a generating chart by pulling data from opendatahub api project
 
     🐈 video essays for my youtube channel
 
