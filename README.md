@@ -18,11 +18,9 @@ bachelor's in computer engineering | [yıldız technical university](http://www.
 
 ## working on... 🔭
 
-    🐈 an android note taking app with java
-
-    🐈 a tdd experiments in python repository.
+    🐈 getting proficient in bash scripting and docker 
     
-    🐈 a generating chart by pulling data from opendatahub api project
+    🐈 a project on apis that aims to generate bar charts by pulling data from opendatahub
 
     🐈 video essays for my youtube channel
 
