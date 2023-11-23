@@ -19,6 +19,8 @@ bachelor's in computer engineering | [yıldız technical university](http://www.
 ## working on... 🔭
 
     🐈 getting proficient in bash scripting and docker 
+
+    🐈 restful api project with python
     
     🐈 a project on apis that aims to generate bar charts by pulling data from opendatahub
 
