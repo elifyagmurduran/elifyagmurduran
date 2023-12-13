@@ -16,12 +16,21 @@ currently - master's in software engineering | [free university of bozen bolzano
 
 bachelor's in computer engineering | [yıldız technical university](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=196&aid=3)
 
-## working on... 🔭
+## stats 🧹
 
-    🐈 getting proficient in bash scripting and docker 
+<a href="https://github.com/elifyagmurduran/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/elifyagmurduran/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifyagmurduran&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320&hide=css,makefile,scss,less&hide_progress=true" />
+</a>
+
+## currently working on... 🔭
+
+    🐈 getting proficient in bash scripting and docker
 
     🐈 restful api project with python
-    
+
     🐈 a project on apis that aims to generate bar charts by pulling data from opendatahub
 
     🐈 video essays for my youtube channel
