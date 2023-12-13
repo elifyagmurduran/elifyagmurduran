@@ -18,12 +18,12 @@ bachelor's in computer engineering | [yıldız technical university](http://www.
 
 ## stats 🧹
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/elifyagmurduran/github-readme-stats" style="flex: 1; margin: 10px; max-width: 400px;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula" />
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/elifyagmurduran/github-readme-stats" style="flex: 1; margin: 10px; display: flex; align-items: stretch;">
+    <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula" />
   </a>
-  <a href="https://github.com/elifyagmurduran/convoychat" style="flex: 1; margin: 10px; max-width: 400px;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifyagmurduran&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320&hide=css,makefile,scss,less&hide_progress=true" />
+  <a href="https://github.com/elifyagmurduran/convoychat" style="flex: 1; margin: 10px; display: flex; align-items: stretch;">
+    <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifyagmurduran&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320&hide=css,makefile,scss,less&hide_progress=true" />
   </a>
 </div>
 
