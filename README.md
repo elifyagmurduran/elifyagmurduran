@@ -18,12 +18,14 @@ bachelor's in computer engineering | [yıldız technical university](http://www.
 
 ## stats 🧹
 
-<a href="https://github.com/elifyagmurduran/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/elifyagmurduran/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifyagmurduran&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320&hide=css,makefile,scss,less&hide_progress=true" />
-</a>
+<div style="display: flex; align-items: stretch; justify-content: center;">
+  <a href="https://github.com/elifyagmurduran/github-readme-stats" style="flex: 1; margin: 10px;">
+    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/elifyagmurduran/convoychat" style="flex: 1; margin: 10px;">
+    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifyagmurduran&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320&hide=css,makefile,scss,less&hide_progress=true" />
+  </a>
+</div>
 
 ## currently working on... 🔭
 
