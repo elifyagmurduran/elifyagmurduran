@@ -8,7 +8,7 @@
 
 ### about me 🌙
 
-hi! my name is yağmur. i am a master in software engineering student and a video essay youtuber / dance enthusiast in my free time.
+hi! my name is yağmur. i am a master in software engineering student.
 
 ## my education 🔮
 
@@ -22,21 +22,11 @@ bachelor's in computer engineering | [yıldız technical university](http://www.
     <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifyagmurduran&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320&hide=css,makefile,scss,less&hide_progress=true" />
 </a>
 
-## currently working on... 🔭
-
-    🐈 getting proficient in bash scripting and docker
-
-    🐈 restful api project with python
-
-    🐈 a project on apis that aims to generate bar charts by pulling data from opendatahub
-
-    🐈 video essays for my youtube channel
 
 ## you can find me here... 🕯️
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
-[![youtube][youtube-shield]][youtube-url]
 [![twitter][twitter-shield]][twitter-url]
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
