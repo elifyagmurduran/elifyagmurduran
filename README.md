@@ -1,6 +1,9 @@
 <h1 align="center">welcome ☄️</h1>
 
-### hi, i'm yağmur — welcome to my github ✨
+### 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=hi,+i'm+yağmur+—+welcome+to+my+github+✨&center=true&width=700&height=60" />
+</p>
 
 ---
 
@@ -40,14 +43,14 @@ a system that **vectorizes both databases and documents**, using Chroma with **m
 
 ## stats 🧹
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&rank_icon=github" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifyagmurduran&layout=compact&theme=dracula&hide=css,makefile,scss,less&langs_count=8&card_width=300" height="170px" />
-  <img src="https://streak-stats.demolab.com?user=elifyagmurduran&theme=dracula&hide_border=true&border_radius=10" height="170px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elifyagmurduran&theme=dracula" height="200px"/>
-
-</div>
+### 📊 github stats  
+| github stats | top languages |
+|--------------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github" height="160px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifyagmurduran&layout=compact&theme=dracula" height="160px"/> |
+### 📈 activity graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elifyagmurduran&theme=dracula" />
+</p>
 
 ---
 
