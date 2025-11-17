@@ -1,25 +1,37 @@
-<h1 align="center"> welcome ☄️ </h1>
+<h1 align="center">welcome ☄️</h1>
 
-### welcome to my github page. 🧙‍♀️
+### hi, i'm yağmur — welcome to my github ✨
 
 ---
 
 ## about me 🌙
 
-hi! my name is yağmur — i’m a software engineer with a background in computer science & engineering, currently focusing on **machine learning and deep learning**, **data engineering**, **LLM/RAG pipelines**, and **intelligent systems**.  
+i’m a software engineer with a background in **computer science & engineering**, currently focusing on:
 
-i enjoy building systems that bring together **data, creativity, and intelligence**, from llm-driven applications to interactive or analytical tools.  
+- **machine learning & deep learning**  
+- **data engineering & scalable ML pipelines**  
+- **LLM / RAG systems**  
+- **intelligent & data-driven applications**
 
-at the moment, i’m working on two major projects:  
-1. **retrieval-augmented generation (rag)** — developing llm-based classification systems with **vector databases** and **scalable ml pipelines**.  
-2. **a large-scale full-stack project** — building seperated **mobile and web frontends in React.js**, integrated with a **Python-based backend**, focusing on clean architecture, modular design, and maintainability.
+i enjoy building systems that bring together **data, creativity, and intelligence** — from llm-powered tools to interactive analytical platforms.
+
+### 🌑 currently working on
+
+🟣 **1. RAG / LLM-based Classification System**  
+building a retrieval-augmented pipeline using **vector databases (Chroma)**, **document & db vectorization modes**, and scalable components for classification and knowledge retrieval.
+
+🟢 **2. large-scale full-stack system**  
+developing a full product with **separate mobile + web frontends (React.js)** and a **Python backend**, following clean architecture, modular design principles, and maintainability best practices.
+
+🔵 **3. universal vectorization engine**  
+a system that **vectorizes both databases and documents**, using Chroma with **mode selection**, enabling unified embeddings for RAG and search pipelines.
 
 ---
 
-## my education 🔮
+## education 🔮
 
 🎓 **master’s in software engineering**  
-[free university of bozen-bolzano](https://www.unibz.it/en/faculties/engineering/master-software-engineering/)  
+[free university of bozen-bolzano](https://www.unibz.it/en/faculties/engineering/master-software-engineering/)
 
 💻 **bachelor’s in computer science & engineering**  
 [yıldız technical university](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=550&aid=3)
@@ -28,26 +40,18 @@ at the moment, i’m working on two major projects:
 
 ## stats 🧹
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-<a href="https://github.com/elifyagmurduran">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&rank_icon=github" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifyagmurduran&layout=compact&theme=dracula&hide=css,makefile,scss,less&langs_count=8&card_width=320" height="180px"/>
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=elifyagmurduran&theme=dracula&hide_border=true&border_radius=10" height="170px"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elifyagmurduran&theme=dracula" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula&hide_title=true&count_private=true&hide=contribs&include_all_commits=true&rank_icon=github" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifyagmurduran&layout=compact&theme=dracula&hide=css,makefile,scss,less&langs_count=8&card_width=300" height="170px" />
+  <img src="https://streak-stats.demolab.com?user=elifyagmurduran&theme=dracula&hide_border=true&border_radius=10" height="170px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elifyagmurduran&theme=dracula" height="200px"/>
 
 </div>
 
 ---
 
-## you can find me here... 🕯️
+## find me here 🕯️
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
