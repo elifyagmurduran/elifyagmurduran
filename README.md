@@ -1,33 +1,60 @@
 <h1 align="center">welcome ☄️</h1>
 
-### 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=hi,+i'm+yağmur+—+welcome+to+my+github+✨&center=true&width=700&height=60" />
+  hi, i’m <b>yağmur</b> — software engineer building intelligent systems ✨
 </p>
 
 ---
 
 ## about me 🌙
 
-i’m a software engineer with a background in **computer science & engineering**, currently focusing on:
+i’m a software engineer with a background in **computer science & engineering** and about to finish my **master’s in software engineering**, currently focusing on:
 
-- **machine learning & deep learning**  
-- **data engineering & scalable ML pipelines**  
-- **LLM / RAG systems**  
-- **intelligent & data-driven applications**
+- 🧠 **LLM & RAG systems**
+- 🗂️ **vector databases & embedding pipelines**
+- 🏗️ **production-grade AI data architectures**
+- ☁️ **azure-based data & ML infrastructure**
+- 📊 **scalable data engineering workflows**
 
-i enjoy building systems that bring together **data, creativity, and intelligence** — from llm-powered tools to interactive analytical platforms.
+i design systems that sit between **raw data and intelligence** — building modular pipelines that enrich, classify, and structure information using modern AI.
 
-### 🌑 currently working on
+### 🌑 currently building
 
-🟣 **1. RAG / LLM-based Classification System**  
-building a retrieval-augmented pipeline using **vector databases (Chroma)**, **document & db vectorization modes**, and scalable components for classification and knowledge retrieval.
 
-🟢 **2. large-scale full-stack system**  
-developing a full product with **separate mobile + web frontends (React.js)** and a **Python backend**, following clean architecture, modular design principles, and maintainability best practices.
+🟣 **AI enrichment platform for retail data**
 
-🔵 **3. universal vectorization engine**  
-a system that **vectorizes both databases and documents**, using Chroma with **mode selection**, enabling unified embeddings for RAG and search pipelines.
+a modular, production-ready system integrated into an **azure bronze → silver architecture**, including:
+
+- gs1 taxonomy classification using **RAG + FAISS**
+- llm-based department enrichment
+- database + document vectorization pipelines
+- idempotent batch processing & resume logic
+- token tracking & logging for cost monitoring
+
+🟢 **unified vectorization engine**
+
+a system that vectorizes:
+- structured databases
+- document corpora  
+with configurable embedding modes for retrieval & classification workflows.
+
+🔵 **full-stack product architecture**
+
+developing a scalable system with:
+- **react (web + mobile frontends)**
+- **python backend**
+- clean architecture & modular design principles
+
+---
+
+## research & thesis 🔮
+
+currently shaping my master’s thesis around:
+
+- retrieval-augmented generation
+- semantic classification systems
+- vector-based product intelligence
+- architecture design for AI enrichment pipelines
 
 ---
 
@@ -41,15 +68,18 @@ a system that **vectorizes both databases and documents**, using Chroma with **m
 
 ---
 
+## tech stack 🧰
+
+python • pandas • azure openai • faiss • sql  
+react • docker • container apps • rest apis  
+vector databases • rag pipelines • data orchestration  
+
+---
+
 ## stats 🧹
 
-### 📊 github stats  
-| github stats | top languages |
-|--------------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=elifyagmurduran&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github" height="160px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifyagmurduran&layout=compact&theme=dracula" height="160px"/> |
-### 📈 activity graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elifyagmurduran&theme=dracula" />
+  <img height="170" src="https://streak-stats.demolab.com?user=elifyagmurduran&theme=dracula&hide_border=true" />
 </p>
 
 ---
