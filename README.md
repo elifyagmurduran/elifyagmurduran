@@ -35,15 +35,7 @@ a modular, production-ready system integrated into an **azure bronze → silver 
 
 a system that vectorizes:
 - structured databases
-- document corpora  
-with configurable embedding modes for retrieval & classification workflows.
-
-🔵 **full-stack product architecture**
-
-developing a scalable system with:
-- **react (web + mobile frontends)**
-- **python backend**
-- clean architecture & modular design principles
+- document corpora with configurable embedding modes for retrieval & classification workflows.
 
 ---
 
