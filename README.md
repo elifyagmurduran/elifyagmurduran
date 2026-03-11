@@ -30,12 +30,7 @@ a modular, production-ready system integrated into an **azure bronze → silver 
 - database + document vectorization pipelines
 - idempotent batch processing & resume logic
 - token tracking & logging for cost monitoring
-
-🟢 **unified vectorization engine**
-
-a system that vectorizes:
-- structured databases
-- document corpora with configurable embedding modes for retrieval & classification workflows.
+- with a system that vectorizes structured databases and document corpora with configurable embedding modes for retrieval & classification workflows
 
 ---
 
