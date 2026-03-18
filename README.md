@@ -42,14 +42,32 @@ a modular AI enrichment pipeline designed to classify messy retail data into **G
 
 ---
 
-## projects 🪐
-
 ♟️ **chess engine (c++)**  
-→ [`c-pp-hess`](https://github.com/elifyagmurduran/c-pp-hess)  
-object-oriented chess implementation focusing on **design patterns and clean architecture**
+→ [`c-pp-hess`](https://github.com/elifyagmurduran/c-pp-hess)
 
-📝 **full stack blog app (next.js + mongodb)** *(in progress)*  
-a modern blog platform with authentication, api routes, and dynamic content handling  
+an object-oriented chess engine built to explore **design patterns, game logic, and system structure**.
+
+**features:**
+- full chess rules implementation (movement, capture, game state)  
+- object-oriented design with extensible architecture  
+- separation of concerns between game logic and interface  
+- focus on clean code, maintainability, and scalability  
+- foundation for future AI or move-generation extensions  
+
+---
+
+📝 **full stack blog & e-commerce app (mern)** *(in progress)*  
+→ [`mern-shop-app-react-mongodb`](https://github.com/elifyagmurduran/mern-shop-app-react-mongodb)
+
+a full-stack MERN application combining **content management and e-commerce functionality** with modern web architecture.
+
+**features:**
+- react-based frontend with dynamic routing  
+- node.js + express backend with REST APIs  
+- mongodb database integration for flexible data models  
+- user authentication and session handling  
+- product management and shopping flow (in progress)  
+- scalable structure for extending into a full commerce platform  
 
 ---
 
