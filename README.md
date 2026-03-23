@@ -42,7 +42,7 @@ a modular AI enrichment pipeline designed to classify messy retail data into **G
 
 ---
 
-♟️ **chess engine (c++)**  
+♟️ **chess engine (c++)** *(coming soon)*  
 → [`c-pp-hess`](https://github.com/elifyagmurduran/c-pp-hess)
 
 an object-oriented chess engine built to explore **design patterns, game logic, and system structure**.
@@ -56,7 +56,7 @@ an object-oriented chess engine built to explore **design patterns, game logic, 
 
 ---
 
-📝 **full stack blog & e-commerce app (mern)** *(in progress)*  
+📝 **full stack blog & e-commerce app (mern)** *(coming soon)*  
 → [`mern-shop-app-react-mongodb`](https://github.com/elifyagmurduran/mern-shop-app-react-mongodb)
 
 a full-stack MERN application combining **content management and e-commerce functionality** with modern web architecture.
